@@ -1,0 +1,5 @@
+resistor
+ceramic capacitor
+diode
+IC
+electrolytic capacitor
